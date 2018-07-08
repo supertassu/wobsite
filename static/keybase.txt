@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/tassu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tassu.me
+  * I am tassu (https://keybase.io/tassu) on keybase.
+  * I have a public key ASDUCX4jZ_TFkjmziQdUBCVa-3e-eAKUv5AoMzvs4PN-3wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c1255b4415328ae4ad6a6b863379383de669d83899cbf5974fe786fcc574d2080a",
+      "host": "keybase.io",
+      "kid": "0120d4097e2367f4c59239b389075404255afb77be780294bf9028333bece0f37edf0a",
+      "uid": "611908137259bd6f1b24caa720d7d919",
+      "username": "tassu"
+    },
+    "merkle_root": {
+      "ctime": 1531067492,
+      "hash": "e4f03e4228786bc17a26946e6273bfa99bd7c5628e6e7c1ae152d2a7d592caf6963d2abb5563ab8d3b48a932a713250e475d7f48617e29ac24b931b481706aaa",
+      "hash_meta": "1f34bf94df8d04670326ac069e2a8d43c7321b57dc16d7b05a91dd08fb7d4e85",
+      "seqno": 3216369
+    },
+    "service": {
+      "entropy": "VoGKThEaOwusTXzdI6x+nohv",
+      "hostname": "tassu.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.3.0"
+  },
+  "ctime": 1531067501,
+  "expire_in": 504576000,
+  "prev": "d46726216838fec5f8c4f24faae5a15f622c541cf58264f422dbc126cbfe6b04",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1Al+I2f0xZI5s4kHVAQlWvt3vngClL+QKDM77ODzft8Kp3BheWxvYWTESpcCG8Qg1GcmIWg4/sX4xPJPquWhX2IsVBz1gmT0ItvBJsv+awTEIIy2bsRqtUlpH819pgNtp5BQKbd/6kIecGn+NLQ3WqudAgHCo3NpZ8RACCTbYEuEhfyxMZP9ITQoqqdjEHLrThSKnDWAGLdX2FEn5KTmzGvjNlWzRoo56wjKdUg1ZkvC9dzN75t3hkGVC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPuQolm3J0p8gLdCSLEpy5TUz01G7d/ejnFbzYrR2Ax2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tassu
+
+==================================================================

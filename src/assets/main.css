@@ -1,0 +1,34 @@
+@import url('https://rsms.me/inter/inter-ui.css');
+
+body {
+    font-feature-settings: 'calt' 1;
+}
+
+pre, code {
+    font-family: 'Space Mono', monospace;
+    font-feature-settings: "clig" 0, "calt" 0;
+
+    background: #fdfaf6;
+}
+
+pre {
+    border: 1px solid #faede5;
+    padding: 5px; 
+}
+
+a, a:visited {
+    text-decoration: none;
+    color: #0984e3;
+}
+
+a:hover {
+    color: #6c5ce7;
+}
+
+a:active {
+    color: #74b9ff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-bottom: 2px;
+}
